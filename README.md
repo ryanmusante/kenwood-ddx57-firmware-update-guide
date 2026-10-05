@@ -27,7 +27,6 @@ throughout.
 | File | Purpose |
 |------|---------|
 | `ddx57-firmware-update-guide.pdf` | Print/portable guide, 7 pages, Letter |
-| `ddx57-firmware-update-guide.docx` | Editable Word copy, same content |
 | `CHANGELOG.md` | Release history |
 | `LICENSE` | CC BY 4.0 |
 
